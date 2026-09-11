@@ -4,7 +4,7 @@ Hi 👋 My name is Charanya Suwarat
 * 🌍  I'm based in Thailand
 * ✉️  You can contact me at [charanya.su@ku.th](mailto:charanya.su@ku.th)
 * ![](https://komarev.com/ghpvc/?username=charanya1661&color=ff69b4)
-* src="<img width="554" height="554" alt="images (3)" src="https://github.com/user-attachments/assets/3c4a04f1-2542-4e9a-b46d-f1069e75a139" />
+* src="https://github.com/user-attachments/assets/3c4a04f1-2542-4e9a-b46d-f1069e75a139" />
 
 
 <p align="left">
